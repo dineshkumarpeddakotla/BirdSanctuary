@@ -17,6 +17,7 @@ public class Main {
         sanctuary.add(parrot);
         sanctuary.add(penguinObj);
         sanctuary.add(toyDuck);
+        sanctuary.add(duck);
 
         sanctuary.remove(parrotObj);
         sanctuary.remove(toyDuck);
